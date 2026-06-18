@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
+| [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
+| [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -35,17 +38,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
