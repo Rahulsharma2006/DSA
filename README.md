@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
 | [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
 ## Array
 |  |
@@ -49,13 +52,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
