@@ -25,7 +25,7 @@ public:
         for(int i =0;i<s.size();i++){
             char c = s[i];
         for(int j =97;j<=122;j++){
-            if(c-'0'==j) continue;
+            if(c==j) continue;
             s[i]=j;
             if(f.find(s)!=f.end()){
                 q.push({s,val+1});
