@@ -17,7 +17,7 @@ public:
             if(pq.size()<k){
                 pq.push({val,i});
             }
-            else if (pq.top().first > val){
+            else if (pq.top().first > val || pq.top().first==val && pq.top().second>i){
                 pq.pop();
                 pq.push({val,i});
             }
