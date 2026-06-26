@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Rahulsharma2006/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Rahulsharma2006/DSA/tree/master/0621-task-scheduler) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
