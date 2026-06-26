@@ -3,8 +3,9 @@ public:
       unordered_map<int,int>dp;
     int climbStairs(int n) {
         //Base Case
-       if(n==1 or n==2 or n ==0)return n;
+       if(n<=1)return 1;
          //Base Case 2
+         if(n==2)return 2;
          if(dp.find(n)!=dp.end()) return dp[n];
        int a1 = climbStairs(n-1);
        int a2 = climbStairs(n-2);
