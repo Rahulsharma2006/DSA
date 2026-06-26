@@ -1,16 +1,18 @@
 class Solution {
 public:
-      unordered_map<int,int>dp;
+    vector<int> dp;
+
     int climbStairs(int n) {
-        //Base Case
-       if(n<=1)return 1;
-         //Base Case 2
-         if(n==2)return 2;
-         if(dp.find(n)!=dp.end()) return dp[n];
-       int a1 = climbStairs(n-1);
-       int a2 = climbStairs(n-2);
-     int  ans = a1 + a2;
-        dp[n]=ans;
-       return ans;
+        dp.assign(n + 1, -1);
+        return solve(n);
+    }
+
+    int solve(int n) {
+        if (n <= 2) return max(1, n);
+
+        if (dp[n] != -1)
+            return dp[n];
+
+        return dp[n] = solve(n - 1) + solve(n - 2);
     }
 };
