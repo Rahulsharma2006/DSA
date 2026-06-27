@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/Rahulsharma2006/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulsharma2006/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rahulsharma2006/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rahulsharma2006/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Rahulsharma2006/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Hash Table
