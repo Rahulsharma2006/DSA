@@ -1,8 +1,8 @@
 class Solution {
 public:
       int TargetSum (vector<int>& nums,int n, int target, int i,vector<vector<int>>&dp , int sum ){
-        if(target < -sum || target > sum)
-    return 0;
+        if(abs(target)>sum)return 0;
+    
    if(i == n){
     if(target == 0) return dp[i][target + sum]=1;
   return dp[i][target + sum]=0;
