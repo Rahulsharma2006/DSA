@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rahulsharma2006/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/Rahulsharma2006/DSA/tree/master/1143-longest-common-subsequence) |
 | [3620-network-recovery-pathways](https://github.com/Rahulsharma2006/DSA/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Rahulsharma2006/DSA/tree/master/0127-word-ladder) |
 | [0692-top-k-frequent-words](https://github.com/Rahulsharma2006/DSA/tree/master/0692-top-k-frequent-words) |
+| [1143-longest-common-subsequence](https://github.com/Rahulsharma2006/DSA/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
