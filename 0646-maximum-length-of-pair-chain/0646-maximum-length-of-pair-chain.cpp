@@ -9,7 +9,7 @@ public:
                 if(pairs[j][1]<pairs[i][0])res[i]=max(res[i],res[j]+1);
             }
         }
-        int ans = *max_element(res.begin(),res.end());
-        return ans;
+     return *max_element(res.begin(),res.end());
+       
     }
 };
