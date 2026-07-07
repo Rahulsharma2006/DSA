@@ -7,15 +7,9 @@ public:
             int digit = n%10;
             if(digit!=0){
                 val=val*10+digit;
+                sum+=digit;
             }
             n=n/10;
-        }
-        long long temp = val;
-       
-        while(temp!=0){
-            int digit = temp%10;
-            sum+=digit;
-            temp=temp/10;
         }
         long long ans =0;
         while(val!=0){
