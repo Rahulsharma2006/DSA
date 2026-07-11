@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
 | [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rahulsharma2006/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rahulsharma2006/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rahulsharma2006/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rahulsharma2006/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
 | [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rahulsharma2006/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rahulsharma2006/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rahulsharma2006/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rahulsharma2006/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rahulsharma2006/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rahulsharma2006/DSA/tree/master/3620-network-recovery-pathways) |
