@@ -280,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rahulsharma2006/DSA/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Rahulsharma2006/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
