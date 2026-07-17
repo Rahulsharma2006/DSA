@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
+| [0994-rotting-oranges](https://github.com/Rahulsharma2006/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rahulsharma2006/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rahulsharma2006/DSA/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/Rahulsharma2006/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Rahulsharma2006/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Rahulsharma2006/DSA/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Rahulsharma2006/DSA/tree/master/1288-remove-covered-intervals) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rahulsharma2006/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/Rahulsharma2006/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Rahulsharma2006/DSA/tree/master/1631-path-with-minimum-effort) |
