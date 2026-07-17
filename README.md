@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Rahulsharma2006/DSA/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Rahulsharma2006/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Rahulsharma2006/DSA/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Rahulsharma2006/DSA/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Rahulsharma2006/DSA/tree/master/0886-possible-bipartition) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rahulsharma2006/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Rahulsharma2006/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Rahulsharma2006/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulsharma2006/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Rahulsharma2006/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
