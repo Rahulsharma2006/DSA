@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rahulsharma2006/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Rahulsharma2006/DSA/tree/master/0127-word-ladder) |
 | [0692-top-k-frequent-words](https://github.com/Rahulsharma2006/DSA/tree/master/0692-top-k-frequent-words) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahulsharma2006/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Rahulsharma2006/DSA/tree/master/1143-longest-common-subsequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahulsharma2006/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/Rahulsharma2006/DSA/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rahulsharma2006/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahulsharma2006/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rahulsharma2006/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
@@ -345,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rahulsharma2006/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahulsharma2006/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahulsharma2006/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
