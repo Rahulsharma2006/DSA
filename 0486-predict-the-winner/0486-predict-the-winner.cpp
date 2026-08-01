@@ -14,7 +14,7 @@ public:
         for(int i =0;i<nums.size();i++){
             sum+=nums[i];
         }
-        vector<vector<int>>dp(20,vector<int>(20,-1));
+        vector<vector<int>>dp(21,vector<int>(21,-1));
        int p1 =helper(0,n-1,nums,dp);
        int p2=sum-p1;
        return p1>=p2;
