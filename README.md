@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rahulsharma2006/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rahulsharma2006/DSA/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/Rahulsharma2006/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Rahulsharma2006/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Rahulsharma2006/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Rahulsharma2006/DSA/tree/master/1046-last-stone-weight) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rahulsharma2006/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Rahulsharma2006/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Rahulsharma2006/DSA/tree/master/1143-longest-common-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rahulsharma2006/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rahulsharma2006/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rahulsharma2006/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahulsharma2006/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Rahulsharma2006/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Rahulsharma2006/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahulsharma2006/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahulsharma2006/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -423,4 +426,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahulsharma2006/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rahulsharma2006/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
