@@ -15,22 +15,32 @@ public:
         // return ans;
        
          //Approach 2
-         unordered_map<int,int>mp;
-         vector<int>ans;
-         int high =  *max_element(nums.begin(),nums.end());
-         int low =  *min_element(nums.begin(),nums.end());
-           for(int i =low;i<high;i++){
-            mp[i]++;
-           }
-           for (int x : nums)
-          mp.erase(x);
+        //  unordered_map<int,int>mp;
+        //  vector<int>ans;
+        //  int high =  *max_element(nums.begin(),nums.end());
+        //  int low =  *min_element(nums.begin(),nums.end());
+        //    for(int i =low;i<=high;i++){
+        //     mp[i]++;
+        //    }
+        //    for (int x : nums)
+        //   mp.erase(x);
 
  
-         for (auto &it : mp)
-         ans.push_back(it.first);
+        //  for (auto &it : mp)
+        //  ans.push_back(it.first);
 
-        sort(ans.begin(), ans.end());
+        // sort(ans.begin(), ans.end());
 
-          return ans;
+        //   return ans;
+        unordered_set<int>st(nums.begin(),nums.end());
+        vector<int>ans;
+        int high =  *max_element(nums.begin(),nums.end());
+        int low =  *min_element(nums.begin(),nums.end());
+        for(int i =low;i<high;i++){
+            if (!st.count(i))
+        ans.push_back(i);
+}
+        return ans;
+        
     }
 };
