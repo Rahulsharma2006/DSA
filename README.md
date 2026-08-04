@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulsharma2006/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rahulsharma2006/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Rahulsharma2006/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Rahulsharma2006/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Rahulsharma2006/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Rahulsharma2006/DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Rahulsharma2006/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Rahulsharma2006/DSA/tree/master/0724-find-pivot-index) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rahulsharma2006/DSA/tree/master/3312-sorted-gcd-pair-queries) |
