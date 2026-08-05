@@ -14,7 +14,6 @@ public:
                     curr++;
                     len++;
                 }
-
                 ans = max(ans, len);
             }
         }
