@@ -1,7 +1,7 @@
 class Solution {
 public:
     int smallestNumber(int n, int t) {
-        if(n<=t)return t;
+      
         int temp = n;
             int val =1;
             int curr = temp;
