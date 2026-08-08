@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rahulsharma2006/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rahulsharma2006/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rahulsharma2006/DSA/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Rahulsharma2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Rahulsharma2006/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0064-minimum-path-sum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rahulsharma2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Rahulsharma2006/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0064-minimum-path-sum) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rahulsharma2006/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rahulsharma2006/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rahulsharma2006/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Rahulsharma2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Rahulsharma2006/DSA/tree/master/0088-merge-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Rahulsharma2006/DSA/tree/master/0658-find-k-closest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rahulsharma2006/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -433,10 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rahulsharma2006/DSA/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahulsharma2006/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rahulsharma2006/DSA/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahulsharma2006/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
