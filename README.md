@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahulsharma2006/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rahulsharma2006/DSA/tree/master/0207-course-schedule) |
+| [0543-diameter-of-binary-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Rahulsharma2006/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rahulsharma2006/DSA/tree/master/0785-is-graph-bipartite) |
@@ -585,8 +586,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
