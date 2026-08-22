@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Rahulsharma2006/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Rahulsharma2006/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rahulsharma2006/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Rahulsharma2006/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Rahulsharma2006/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahulsharma2006/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rahulsharma2006/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rahulsharma2006/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rahulsharma2006/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rahulsharma2006/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Rahulsharma2006/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Rahulsharma2006/DSA/tree/master/0206-reverse-linked-list) |
 ## Enumeration
 |  |
@@ -569,4 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rahulsharma2006/DSA/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rahulsharma2006/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rahulsharma2006/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
