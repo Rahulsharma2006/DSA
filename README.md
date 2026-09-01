@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rahulsharma2006/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rahulsharma2006/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rahulsharma2006/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Rahulsharma2006/DSA/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/Rahulsharma2006/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Rahulsharma2006/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahulsharma2006/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rahulsharma2006/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rahulsharma2006/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Rahulsharma2006/DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Rahulsharma2006/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rahulsharma2006/DSA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Rahulsharma2006/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rahulsharma2006/DSA/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Rahulsharma2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Rahulsharma2006/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rahulsharma2006/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rahulsharma2006/DSA/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Rahulsharma2006/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rahulsharma2006/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rahulsharma2006/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
