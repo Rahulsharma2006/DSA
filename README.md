@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahulsharma2006/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rahulsharma2006/DSA/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/Rahulsharma2006/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Rahulsharma2006/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Rahulsharma2006/DSA/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahulsharma2006/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rahulsharma2006/DSA/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/Rahulsharma2006/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -653,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rahulsharma2006/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
