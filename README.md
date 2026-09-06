@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rahulsharma2006/DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Rahulsharma2006/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulsharma2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rahulsharma2006/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rahulsharma2006/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rahulsharma2006/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rahulsharma2006/DSA/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Rahulsharma2006/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Rahulsharma2006/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Rahulsharma2006/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahulsharma2006/DSA/tree/master/0424-longest-repeating-character-replacement) |
