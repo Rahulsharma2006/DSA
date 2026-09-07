@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Rahulsharma2006/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Rahulsharma2006/DSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Rahulsharma2006/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Rahulsharma2006/DSA/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Rahulsharma2006/DSA/tree/master/1406-stone-game-iii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rahulsharma2006/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rahulsharma2006/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Rahulsharma2006/DSA/tree/master/0692-top-k-frequent-words) |
+| [0940-distinct-subsequences-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rahulsharma2006/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Rahulsharma2006/DSA/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/Rahulsharma2006/DSA/tree/master/1927-sum-game) |
