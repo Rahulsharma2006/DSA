@@ -687,4 +687,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rahulsharma2006/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Rahulsharma2006/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
