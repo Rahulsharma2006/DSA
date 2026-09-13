@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rahulsharma2006/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Rahulsharma2006/DSA/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Rahulsharma2006/DSA/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Rahulsharma2006/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Rahulsharma2006/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Rahulsharma2006/DSA/tree/master/0877-stone-game) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rahulsharma2006/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Rahulsharma2006/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Rahulsharma2006/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Rahulsharma2006/DSA/tree/master/1260-shift-2d-grid) |
