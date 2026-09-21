@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rahulsharma2006/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rahulsharma2006/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rahulsharma2006/DSA/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rahulsharma2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Rahulsharma2006/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0063-unique-paths-ii) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rahulsharma2006/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Topological Sort
