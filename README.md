@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rahulsharma2006/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rahulsharma2006/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Rahulsharma2006/DSA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Rahulsharma2006/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rahulsharma2006/DSA/tree/master/0242-valid-anagram) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rahulsharma2006/DSA/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Rahulsharma2006/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Rahulsharma2006/DSA/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Rahulsharma2006/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahulsharma2006/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rahulsharma2006/DSA/tree/master/0567-permutation-in-string) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/Rahulsharma2006/DSA/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rahulsharma2006/DSA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahulsharma2006/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rahulsharma2006/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
