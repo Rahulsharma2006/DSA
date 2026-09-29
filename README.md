@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rahulsharma2006/DSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rahulsharma2006/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Rahulsharma2006/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Rahulsharma2006/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahulsharma2006/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rahulsharma2006/DSA/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Rahulsharma2006/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Rahulsharma2006/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahulsharma2006/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahulsharma2006/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rahulsharma2006/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rahulsharma2006/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rahulsharma2006/DSA/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Rahulsharma2006/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Rahulsharma2006/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Rahulsharma2006/DSA/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/Rahulsharma2006/DSA/tree/master/0187-repeated-dna-sequences) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Rahulsharma2006/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Rahulsharma2006/DSA/tree/master/1096-brace-expansion-ii) |
