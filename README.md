@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulsharma2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rahulsharma2006/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Rahulsharma2006/DSA/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rahulsharma2006/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Rahulsharma2006/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0213-house-robber-ii) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rahulsharma2006/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Rahulsharma2006/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Rahulsharma2006/DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Rahulsharma2006/DSA/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Rahulsharma2006/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rahulsharma2006/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Rahulsharma2006/DSA/tree/master/0242-valid-anagram) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Rahulsharma2006/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Rahulsharma2006/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Rahulsharma2006/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rahulsharma2006/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
