@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rahulsharma2006/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rahulsharma2006/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Rahulsharma2006/DSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rahulsharma2006/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Rahulsharma2006/DSA/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Rahulsharma2006/DSA/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Rahulsharma2006/DSA/tree/master/0853-car-fleet) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rahulsharma2006/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rahulsharma2006/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahulsharma2006/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Rahulsharma2006/DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0940-distinct-subsequences-ii) |
