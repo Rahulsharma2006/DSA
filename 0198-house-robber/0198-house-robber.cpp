@@ -2,12 +2,17 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int>dp(n+1,-1);
-        dp[n-1]=nums[n-1];
-        dp[n]=0;
+
+        if(n==0 || n==1)return nums[0];
+        int ans =-1;
+        
+        int prev=nums[n-1];
+        int prev_prev=0;
         for(int i = n-2 ;i>=0;i--){
-            dp[i]=max(nums[i]+dp[i+2],dp[i+1]);
+            ans=max(nums[i]+prev_prev,prev);
+            prev_prev=prev;
+            prev=ans;
         }
-        return dp[0];
+        return ans;
     }
 };
