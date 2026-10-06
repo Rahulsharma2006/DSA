@@ -834,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rahulsharma2006/DSA/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Rahulsharma2006/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
