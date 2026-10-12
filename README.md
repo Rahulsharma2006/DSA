@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahulsharma2006/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Rahulsharma2006/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Rahulsharma2006/DSA/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/Rahulsharma2006/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahulsharma2006/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rahulsharma2006/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Rahulsharma2006/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Rahulsharma2006/DSA/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rahulsharma2006/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Rahulsharma2006/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahulsharma2006/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -842,10 +844,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Rahulsharma2006/DSA/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Rahulsharma2006/DSA/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Rahulsharma2006/DSA/tree/master/0518-coin-change-ii) |
 ## Manacher
 |  |
 | ------- |
