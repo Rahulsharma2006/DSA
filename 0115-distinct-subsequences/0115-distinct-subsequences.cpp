@@ -1,29 +1,17 @@
 class Solution {
 public:
- int solve(string s, string t,int n , int m,vector<vector<int>>&dp){
-    //Base Case
-        // t completely matched
-        if (m == 0)
-            return 1;
-
-        // s exhausted but t is still remaining
-        if (n == 0)
-            return 0;
-
-    //Match Ho Jaaye Character
-            if (dp[n][m] != -1)
-            return dp[n][m];
-    if(s[n-1]==t[m-1]){
-         return dp[n][m]=solve(s,t,n-1,m-1,dp) + solve(s,t,n-1,m,dp);
+  int helper(string s , string t , int i , int j,vector<vector<int>>&dp){
+    if(j==t.size())return 1;
+    if(i==s.size())return 0;
+       if(dp[i][j]!=-1)return dp[i][j];
+    if(s[i]==t[j]){
+        return dp[i][j]=helper(s,t,i+1,j,dp)+helper(s,t,i+1,j+1,dp);
     }else{
-        return dp[n][m]=solve(s,t,n-1,m,dp);
+        return dp[i][j]=helper(s,t,i+1,j,dp);
     }
-    
- }
+  }
     int numDistinct(string s, string t) {
-          int n = s.size();
-          int m = t.size();
-          vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
-        return solve(s,t,n,m,dp);
+        vector<vector<int>>dp(s.size(),vector<int>(t.size(),-1));
+      return helper(s,t,0,0,dp);
     }
 };
